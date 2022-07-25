@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+#container{
+    margin: auto;
+    width: 30vw;
+    background-color: aqua;
+    height: 70vh;
+}
+
+.btns{
+    cursor: pointer;
+}
+
+#screen{
+  
+    font-size: 30px;
+  
+}
+
+.btns{
+    padding: 15px;
+}
