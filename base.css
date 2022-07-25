@@ -5,20 +5,32 @@ h1{
 #container{
     margin: auto;
     width: 30vw;
-    background-color: aqua;
     height: 70vh;
 }
 
 .btns{
     cursor: pointer;
+    width: 112px;
+    height: 100px;
+    font-size: 30px;
+}
+
+#ourScreen{
+    height: 100px;
 }
 
 #screen{
   
-    font-size: 30px;
+    font-size: 55px;
+width: 99%;
+height: 100%;
   
 }
 
 .btns{
     padding: 15px;
+}
+
+#buttons{
+    margin-top: 2%;
 }
